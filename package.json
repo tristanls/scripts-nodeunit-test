@@ -1,0 +1,12 @@
+{
+  "name": "scripts-nodeunit-test",
+  "version": "0.0.0",
+  "description": "Script to run nodeunit tests",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/scripts-nodeunit-test"
+  },
+  "private": true
+}
