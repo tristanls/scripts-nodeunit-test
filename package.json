@@ -7,6 +7,5 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:tristanls/scripts-nodeunit-test"
-  },
-  "private": true
+  }
 }
