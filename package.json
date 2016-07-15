@@ -1,6 +1,6 @@
 {
   "name": "scripts-nodeunit-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Script to run nodeunit tests",
   "license": "MIT",
   "main": "index.js",
